@@ -35,7 +35,7 @@ public class Simple {
 			}
 		}
 		
-		
+		//driver.quite();
 		driver.close();
 
 	}
